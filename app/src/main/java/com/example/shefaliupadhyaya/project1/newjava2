@@ -1,0 +1,13 @@
+public class rxjava{
+
+    int roll;
+    public getvalue{
+    int i=roll;
+    return i;
+    }
+    public setvalue(int i){
+    roll=i;
+    }
+
+
+}
